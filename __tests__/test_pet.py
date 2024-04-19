@@ -66,5 +66,6 @@ def test_get_pet():
     assert response_body["category"]["id"] == pet_category_id
     assert response_body["tags"][0]["id"] == pet_tag_id
     assert response_body["status"] == pet_status
+    #
     
     
