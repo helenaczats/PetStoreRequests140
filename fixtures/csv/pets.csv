@@ -1,0 +1,5 @@
+pet_id,category_id,category_name,pet_name,tags,status
+114564802,2,cat,Garfield,1-vacinado;2-vermifugado,available
+114564803,3,fish,Nemo,3-raro,available
+114564804,1,dog,Oggi,2-vermifugado,available
+114564805,4,bird,Garibaldo,3-raro,available
